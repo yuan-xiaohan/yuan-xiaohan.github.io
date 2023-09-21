@@ -13,6 +13,7 @@ td:first-child {
 </head>
 
 ## Conference Paper
+<img src="images/profile.jpg" width="80%" height="80%">
 <img src="images/publications/iccv23.jpg">
 <table>
   <!-- <colgroup>
@@ -29,7 +30,7 @@ td:first-child {
 </tr>
 
 <tr><!-- ACCV22 -->
-  <td style="text-align: center;"><img src="images/publications/accv22.png" ></td>
+  <td style="text-align: center;"><img src="images/publications/accv22.png"></td>
 
   <td>
   <span style="font-size: 16px;">Slice-mask based 3D Cardiac Shape Reconstruction from CT volume</span><br>
