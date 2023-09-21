@@ -7,14 +7,14 @@ layout: page
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="flex: 1;">
 
-Here is **Xiaohan Yuan (袁小涵)**.
+Here is <strong>Xiaohan Yuan (袁小涵)</strong>.
 
 I am currently pursuing my Ph.D. at [Southeast University (SEU)](https://www.seu.edu.cn/), where I am actively engaged in research at the Visual and Cognitive Laboratory (VCL), advised by [Yangang Wang](https://www.yangangwang.com/).
   
   ---
 
   ## Research Interests
-  I am researching in the interdisciplinary field of **computer vision** and **medical imaging**, with the goal of comprehending the structural, dynamic, and functional aspects of anatomical organs through the analysis of medical images. My current research interests are primarily focused on <font color="orange">cardiac-related</font> studies.
+  I am researching in the interdisciplinary field of <strong>computer vision</strong> and <strong>medical imaging</strong>, with the goal of comprehending the structural, dynamic, and functional aspects of anatomical organs through the analysis of medical images. My current research interests are primarily focused on <font color="orange">cardiac-related</font> studies.
   </div>
   <div style="flex: 1; text-align: right;">
     <img src="images/profile.jpg" width="70%" height="70%">
