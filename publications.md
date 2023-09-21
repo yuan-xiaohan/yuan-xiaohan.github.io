@@ -13,6 +13,7 @@ td:first-child {
 </head>
 
 ## Conference Paper
+<img src="images/publications/iccv23.jpg"/>
 <table>
   <!-- <colgroup>
     <col style="width: 250px;"> 
