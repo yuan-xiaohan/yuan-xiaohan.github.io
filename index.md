@@ -17,7 +17,7 @@ I am currently pursuing my Ph.D. at <a href="https://www.seu.edu.cn/" target="_b
   I am researching in the interdisciplinary field of <strong>computer vision</strong> and <strong>medical imaging</strong>, with the goal of comprehending the structural, dynamic, and functional aspects of anatomical organs through the analysis of medical images. My current research interests are primarily focused on <font color="orange">cardiac-related</font> studies.
   </div>
   <div style="flex: 1; text-align: right;">
-    <img src="images/profile.jpg" width="70%" height="70%">
+    <img src="images/profile.jpg" width="80%" height="80%">
   </div>
 </div>
 
