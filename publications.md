@@ -4,14 +4,16 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-## Conference Paper
-<table>
+<head>
 <style>
-/* 控制第一列的宽度 */
 td:first-child {
-    width: 250px; /* 设置第一列宽度为100像素 */
+    width: 250px; 
 }
 </style>
+</head>
+
+## Conference Paper
+<table>
   <!-- <colgroup>
     <col style="width: 250px;"> 
   </colgroup> -->
@@ -33,6 +35,7 @@ td:first-child {
   <p><span style="font-size: 16px;">Slice-mask based 3D Cardiac Shape Reconstruction from CT volume</span></p><br>
   <strong>Xiaohan Yuan</strong>, Cong Liu, Fu Feng, Yinsu Zhu and Yangang Wang<br>Asian Conference on Computer Vision (<strong>ACCV 2022</strong>)<br>
   <a href="https://openaccess.thecvf.com/content/ACCV2022/papers/Yuan_Slice-mask_based_3D_Cardiac_Shape_Reconstruction_from_CT_volume_ACCV_2022_paper.pdf" target="_blank">[paper]</a> <a href="https://github.com/yuan-xiaohan/Slice-mask-based-3D-Cardiac-Shape-Reconstruction" target="_blank">[code]</a>
+  </td>
 </tr>
 
 <tr><!-- PRCV22 -->
