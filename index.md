@@ -1,6 +1,9 @@
 ---
 layout: page
 ---
+<head>
+<link rel="icon" href="/images/avatar.png" sizes="16x16" type="image/png">
+</head>
 
 # About Me
 
