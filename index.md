@@ -52,6 +52,10 @@ I am researching in the interdisciplinary field of <strong>computer vision</stro
 td:first-child {
     width: 250px; 
 }
+table {
+    border-collapse: separate;
+    border-spacing: 20px; /* 10px 是间距的大小，可以根据需要调整 */
+}
 </style>
 </head>
 
