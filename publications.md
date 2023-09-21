@@ -23,7 +23,7 @@ table {
     <col style="width: 250px;"> 
   </colgroup> -->
 <tr><!-- ICCV23 -->
-  <td style="text-align: center;"><img src="images/publications/iccv23.jpg"></td>
+  <td style="text-align: center;"><img src="/images/publications/iccv23.jpg"></td>
 
   <td>
   <strong>4D Myocardium Reconstruction with Decoupled Motion and Shape Model</strong><br>
@@ -33,7 +33,7 @@ table {
 </tr>
 
 <tr><!-- ACCV22 -->
-  <td style="text-align: center;"><img src="images/publications/accv22.png"></td>
+  <td style="text-align: center;"><img src="/images/publications/accv22.png"></td>
 
   <td>
   <strong>Slice-mask based 3D Cardiac Shape Reconstruction from CT volume</strong><br>
@@ -43,7 +43,7 @@ table {
 </tr>
 
 <tr><!-- PRCV22 -->
-  <td><img src="images/publications/prcv22.png"></td>
+  <td><img src="/images/publications/prcv22.png"></td>
   
   <td>
   <strong>A 2.5D Coarse-to-fine Framework for 3D Cardiac CT View Planning</strong><br>
