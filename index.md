@@ -24,6 +24,7 @@ I am researching in the interdisciplinary field of <strong>computer vision</stro
 ---
 
 ## News and Updates
+- **Oct 2023：** Attending IEEE/CVF International Conference on Computer Vision ([ICCV 2023](https://iccv2023.thecvf.com/)) held in Paris, France.
 - **Jul 2023：** One paper accepted by ICCV 2023.
 - **Jul 2023：** Attending the 10th Medical Imaging Computing Seminar ([MICS 2023](https://aim.nuist.edu.cn/MICS/mics2023.htm)) held in Taiyuan, China.
 - **Jun 2023：** Attending the 13th Vision and Learning Seminar ([VALSE 2023](http://valser.org/2023/#/)) held in Wuxi, China.
