@@ -27,7 +27,7 @@ table {
   <td>
   <strong>4D Myocardium Reconstruction with Decoupled Motion and Shape Model</strong><br>
   <font color="orange">Xiaohan Yuan</font>, Cong Liu and Yangang Wang<br>IEEE/CVF International Conference on Computer Vision  (<strong>ICCV 2023</strong>)<br>
-  <a href="https://arxiv.org/pdf/2308.14083.pdf" target="_blank">[paper]</a> <a href="https://github.com/yuan-xiaohan/4D-Myocardium-Reconstruction-with-Decoupled-Motion-and-Shape-Model" target="_blank">[code]</a> <a href="https://www.bilibili.com/video/BV1Q8411z7o8/?spm_id_from=888.80997.embed_other.whitelist&t=23" target="_blank">[video]</a>
+  <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Yuan_4D_Myocardium_Reconstruction_with_Decoupled_Motion_and_Shape_Model_ICCV_2023_paper.pdf" target="_blank">[paper]</a> <a href="https://github.com/yuan-xiaohan/4D-Myocardium-Reconstruction-with-Decoupled-Motion-and-Shape-Model" target="_blank">[code]</a> <a href="https://www.bilibili.com/video/BV1Q8411z7o8/?spm_id_from=888.80997.embed_other.whitelist&t=23" target="_blank">[video]</a>
   </td>
 </tr>
 
