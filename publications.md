@@ -24,7 +24,7 @@ table {
   <td style="text-align: center;"><img src="/images/publications/TVCG24.jpg"></td>
 
   <td>
-  <strong>Slice-mask based 3D Cardiac Shape Reconstruction from CT volume</strong><br>
+  <strong>GraspDiff: Grasping Generation for Hand-Object Interaction with Multimodal Guided Diffusion</strong><br>
   Binghui Zuo, Zimeng Zhao, Wenqian Sun, <font color="orange">Xiaohan Yuan</font>, ZhiPeng Yu, and Yangang Wang<br>IEEE Transactions on Visualization and Computer Graphics (<strong>TVCG 2024</strong>)<br>
   <a href="https://ieeexplore.ieee.org/document/10689328">[paper]</a>
   </td>
