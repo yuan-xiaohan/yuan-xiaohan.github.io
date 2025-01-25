@@ -27,7 +27,7 @@ table {
 
   <td>
   <strong>Slice-mask based 3D Cardiac Shape Reconstruction from CT volume</strong><br>
-  <font color="orange">Cong Liu, Xiaohan Yuan</font>, ZhiPeng Yu, and Yangang WangWang<br>Asian Conference on Computer Vision (<strong>ACCV 2024</strong>)<br>
+  Cong Liu, <font color="orange">Xiaohan Yuan</font>, ZhiPeng Yu, and Yangang WangWang<br>Asian Conference on Computer Vision (<strong>ACCV 2024</strong>)<br>
   <a href="https://link.springer.com/chapter/10.1007/978-981-96-0901-7_12" target="_blank">[paper]</a>
   </td>
 </tr>
