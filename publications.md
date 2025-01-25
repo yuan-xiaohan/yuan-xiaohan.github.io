@@ -21,12 +21,23 @@ table {
   <!-- <colgroup>
     <col style="width: 250px;"> 
   </colgroup> -->
+
+<tr><!-- ACCV24 -->
+  <td style="text-align: center;"><img src="/images/publications/accv24.png"></td>
+
+  <td>
+  <strong>Slice-mask based 3D Cardiac Shape Reconstruction from CT volume</strong><br>
+  <font color="orange">Cong Liu, Xiaohan Yuan</font>, ZhiPeng Yu, and Yangang WangWang<br>Asian Conference on Computer Vision (<strong>ACCV 2024</strong>)<br>
+  <a href="https://link.springer.com/chapter/10.1007/978-981-96-0901-7_12" target="_blank">[paper]</a>
+  </td>
+</tr>
+
 <tr><!-- ICCV23 -->
   <td style="text-align: center;"><img src="/images/publications/iccv23.jpg"></td>
 
   <td>
   <strong>4D Myocardium Reconstruction with Decoupled Motion and Shape Model</strong><br>
-  <font color="orange">Xiaohan Yuan</font>, Cong Liu and Yangang Wang<br>IEEE/CVF International Conference on Computer Vision  (<strong>ICCV 2023</strong>)<br>
+  <font color="orange">Xiaohan Yuan</font>, Cong Liu, and Yangang Wang<br>IEEE/CVF International Conference on Computer Vision  (<strong>ICCV 2023</strong>)<br>
   <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Yuan_4D_Myocardium_Reconstruction_with_Decoupled_Motion_and_Shape_Model_ICCV_2023_paper.pdf" target="_blank">[paper]</a> <a href="https://github.com/yuan-xiaohan/4D-Myocardium-Reconstruction-with-Decoupled-Motion-and-Shape-Model" target="_blank">[code]</a> <a href="https://www.bilibili.com/video/BV1Q8411z7o8/?spm_id_from=888.80997.embed_other.whitelist&t=23" target="_blank">[video]</a>
   </td>
 </tr>
@@ -36,7 +47,7 @@ table {
 
   <td>
   <strong>Slice-mask based 3D Cardiac Shape Reconstruction from CT volume</strong><br>
-  <font color="orange">Xiaohan Yuan</font>, Cong Liu, Fu Feng, Yinsu Zhu and Yangang Wang<br>Asian Conference on Computer Vision (<strong>ACCV 2022</strong>)<br>
+  <font color="orange">Xiaohan Yuan</font>, Cong Liu, Fu Feng, Yinsu Zhu, and Yangang Wang<br>Asian Conference on Computer Vision (<strong>ACCV 2022</strong>)<br>
   <a href="https://openaccess.thecvf.com/content/ACCV2022/papers/Yuan_Slice-mask_based_3D_Cardiac_Shape_Reconstruction_from_CT_volume_ACCV_2022_paper.pdf" target="_blank">[paper]</a> <a href="https://github.com/yuan-xiaohan/Slice-mask-based-3D-Cardiac-Shape-Reconstruction" target="_blank">[code]</a>
   </td>
 </tr>
