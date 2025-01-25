@@ -23,7 +23,7 @@ table {
   </colgroup> -->
 
 <tr><!-- ACCV24 -->
-  <td style="text-align: center;"><img src="/images/publications/accv24.png"></td>
+  <td style="text-align: center;"><img src="/images/publications/accv24.jpg"></td>
 
   <td>
   <strong>Slice-mask based 3D Cardiac Shape Reconstruction from CT volume</strong><br>
