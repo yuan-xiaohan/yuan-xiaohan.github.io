@@ -26,14 +26,16 @@ I am researching in the interdisciplinary field of <strong>computer vision</stro
 ## News and Updates
 - **Sep 2024：** One paper accepted by TVCG 2024.
 - **Sep 2024：** One paper accepted by ACCV 2024.
-- **Jul 2024：** Delivered an oral presentation at the 11th Medical Image Computing Seminar (\href{https://mics2024-xiamen.github.io/}{MICS 2024}) held in Xiamen, China. Awarded Second Prize in the MICS 2024 Student Achievement Short Video Competition.
+- **Jul 2024：** Delivered an oral presentation at the 11th Medical Image Computing Seminar ([MICS 2024](https://mics2024-xiamen.github.io/)) held in Xiamen, China. Awarded Second Prize in the MICS 2024 Student Achievement Short Video Competition.
 - **Oct 2023：** Attended IEEE/CVF International Conference on Computer Vision ([ICCV 2023](https://iccv2023.thecvf.com/)) held in Paris, France.
 - **Jul 2023：** One paper accepted by ICCV 2023.
 - **Jul 2023：** Attended the 10th Medical Imaging Computing Seminar ([MICS 2023](https://aim.nuist.edu.cn/MICS/mics2023.htm)) held in Taiyuan, China.
+- **Jun 2023：** One paper accepted by IJCAI Workshop 2023.
 - **Jun 2023：** Attended the 13th Vision and Learning Seminar ([VALSE 2023](http://valser.org/2023/#/)) held in Wuxi, China.
 - **Dec 2022：** Attended the 16th Asian Conference on Computer Vision ([ACCV 2022](https://accv2022.org/en/default.asp)) held in Macau SAR, China.
 - **Sep 2022：** One paper accepted by ACCV 2022.
 - **Jul 2022：** One paper accepted by PRCV 2022.
+- **Oct 2020：** One paper accepted by CAC 2020.
 
 
 <br>
