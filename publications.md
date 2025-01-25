@@ -56,7 +56,7 @@ table {
   <td>
   <strong>DiffuseExpand: Expanding Dataset for 2D Medical Image Segmentation Using Diffusion Models</strong><br>
   Shitong Shao, <font color="orange">Xiaohan Yuan</font>, Zhen Huang, Ziming Qiu, Shuai Wang, and Kevin Zhou<br>1st International Workshop on Generalizing from Limited Resources in the Open World (<strong>IJCAI Workshop 2023</strong>)<br>
-  <a href="https://arxiv.org/pdf/2304.13416" target="_blank">[paper]</a> <a href="https://github.com/shaoshitong/DiffuseExpand" target="_blank">[code]</a> <a 
+  <a href="https://arxiv.org/pdf/2304.13416" target="_blank">[paper]</a> <a href="https://github.com/shaoshitong/DiffuseExpand" target="_blank">[code]</a>
   </td>
 </tr>
 
