@@ -3,8 +3,6 @@ layout: page
 permalink: /publications/index.html
 title: Publications
 ---
-
-## Conference Paper
 <head>
 <style>
 td:first-child {
@@ -21,6 +19,16 @@ table {
   <!-- <colgroup>
     <col style="width: 250px;"> 
   </colgroup> -->
+
+<tr><!-- TVCG24 -->
+  <td style="text-align: center;"><img src="/images/publications/TVCG24.jpg"></td>
+
+  <td>
+  <strong>Slice-mask based 3D Cardiac Shape Reconstruction from CT volume</strong><br>
+  Binghui Zuo, Zimeng Zhao, Wenqian Sun, <font color="orange">Xiaohan Yuan</font>, ZhiPeng Yu, and Yangang Wang<br>IEEE Transactions on Visualization and Computer Graphics (<strong>TVCG 2024</strong>)<br>
+  <a href="https://ieeexplore.ieee.org/document/10689328">[paper]</a>
+  </td>
+</tr>
 
 <tr><!-- ACCV24 -->
   <td style="text-align: center;"><img src="/images/publications/accv24.jpg"></td>
