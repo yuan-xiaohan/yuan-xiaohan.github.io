@@ -9,8 +9,9 @@ layout: page
 
 Here is <strong>Xiaohan Yuan (袁小涵)</strong>.
 
-I am a Ph.D. student in the Vision and Cognition Lab (<a href="https://www.yangangwang.com/" target="_blank">VCL</a>) at Southeast University (<a href="https://www.seu.edu.cn/english/main.htm" target="_blank">SEU</a>) , China, supervised by Prof. (<https://www.yangangwang.com/#me" target="_blank">Yangang Wang</a>) .
+I am a Ph.D. student in the Vision and Cognition Lab (<a href="https://www.yangangwang.com/" target="_blank">VCL</a>) at Southeast University (<a href="https://www.seu.edu.cn/english/main.htm" target="_blank">SEU</a>) , China, supervised by Prof. (<a href="https://www.yangangwang.com/#me" target="_blank">Yangang Wang</a>) .
 Currently, I am a visiting Ph.D. student at the Digital Heart Lab (<a href="https://digitalheartlab.com/" target="_blank">DHlab</a>), National University of Singapore (<a href="https://nus.edu.sg/" target="_blank">NUS</a>), under the supervision of Dr. (<a href="https://digitalheartlab.com/people/lei_li" target="_blank">Lei Li</a>).
+<br>
 
 I am researching in the interdisciplinary field of <strong>computer vision</strong> and <strong>medical imaging</strong>, with the goal of comprehending the structural, dynamic, and functional aspects of anatomical organs through the analysis of medical images. My current research interests are primarily focused on <font color="orange">cardiac-related</font> studies.
 </div>
