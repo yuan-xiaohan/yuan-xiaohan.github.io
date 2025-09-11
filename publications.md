@@ -20,6 +20,16 @@ table {
     <col style="width: 250px;"> 
   </colgroup> -->
 
+<tr><!-- TIP25 -->
+  <td style="text-align: center;"><img src="/images/publications/TIP25.jpg"></td>
+
+  <td>
+  <strong>NP-Hand: Novel Perspective Hand Image Synthesis Guided by Normals</strong><br>
+  Binghui Zuo, Wenqian Sun, Zimeng Zhao, <font color="orange">Xiaohan Yuan</font>, and Yangang Wang<br>IEEE Transactions on Image Processing (<strong>TIP 2025</strong>)<br>
+  <a href="https://ieeexplore-ieee-org.libproxy1.nus.edu.sg/document/10969541">[paper]</a>
+  </td>
+</tr>
+
 <tr><!-- TVCG24 -->
   <td style="text-align: center;"><img src="/images/publications/TVCG24.jpg"></td>
 

@@ -9,8 +9,9 @@ layout: page
 
 Here is <strong>Xiaohan Yuan (袁小涵)</strong>.
 
-I am currently pursuing my Ph.D. at <a href="https://www.seu.edu.cn/english/main.htm" target="_blank">Southeast University (SEU)</a> in China. I am actively involved in research at the Visual and Cognitive Laboratory (VCL), advised by <a href="https://www.yangangwang.com/" target="_blank">Yangang Wang</a>.<br>
-<br>
+I am a Ph.D. student in the Vision and Cognition Lab (<a href="https://www.yangangwang.com/" target="_blank">VCL</a>) at Southeast University (<a href="https://www.seu.edu.cn/english/main.htm" target="_blank">SEU</a>) , China, supervised by Prof. (<https://www.yangangwang.com/#me" target="_blank">Yangang Wang</a>) .
+Currently, I am a visiting Ph.D. student at the Digital Heart Lab (<a href="https://digitalheartlab.com/" target="_blank">DHlab</a>), National University of Singapore (<a href="https://nus.edu.sg/" target="_blank">NUS</a>), under the supervision of Dr. (<a href="https://digitalheartlab.com/people/lei_li" target="_blank">Lei Li</a>).
+
 I am researching in the interdisciplinary field of <strong>computer vision</strong> and <strong>medical imaging</strong>, with the goal of comprehending the structural, dynamic, and functional aspects of anatomical organs through the analysis of medical images. My current research interests are primarily focused on <font color="orange">cardiac-related</font> studies.
 </div>
 
@@ -24,6 +25,8 @@ I am researching in the interdisciplinary field of <strong>computer vision</stro
 ---
 
 ## News and Updates
+- **July 2025：** Attended the 12th Medical Imaging Computing Seminar ([MICS 2025](https://micsymposium.org/mics2025/)) held in Cixi, China.
+- **Mar 2025：** One paper accepted by TIP 2025.
 - **Sep 2024：** One paper accepted by TVCG 2024.
 - **Sep 2024：** One paper accepted by ACCV 2024.
 - **Jul 2024：** Delivered an oral presentation at the 11th Medical Image Computing Seminar ([MICS 2024](https://mics2024-xiamen.github.io/)) held in Xiamen, China. Awarded Second Prize in the MICS 2024 Student Achievement Short Video Competition.
@@ -46,6 +49,7 @@ I am researching in the interdisciplinary field of <strong>computer vision</stro
 
 <!-- **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!** -->
 
+- August 2025 - Current: **Visiting Ph.D. Student.**, National University of Singapore, Singapore
 - March 2023 - Current: **Ph.D. Student.**, Southeast University, Nanjing, China
 - Sep 2020 - March 2023: **M.S.**, Southeast University, Nanjing, China
 - Sep 2016 - June 2020: **B.E.**, Nanjing University of Aeronautics and Astronautics, Nanjing, China
