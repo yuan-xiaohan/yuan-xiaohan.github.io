@@ -7,7 +7,7 @@ layout: page
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="flex: 1;">
 
-Here is <strong>Xiaohan Yuan (袁小涵)</strong>.
+Here is <strong style="color:orange;">Yuan Xiaohan(袁小涵)</strong>.
 
 I am a Ph.D. student in the Vision and Cognition Lab 
 (<a href="https://www.yangangwang.com/" target="_blank" style="color:blue;">VCL</a>) 
