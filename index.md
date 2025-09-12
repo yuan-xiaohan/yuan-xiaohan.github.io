@@ -36,7 +36,7 @@ I am researching in the interdisciplinary field of <strong>computer vision</stro
 ---
 
 ## News and Updates
-- **July 2025：** Attended the 12th Medical Imaging Computing Seminar ([MICS 2025](https://micsymposium.org/mics2025/)) held in Cixi, China.
+- **Jul 2025：** Attended the 12th Medical Imaging Computing Seminar ([MICS 2025](https://micsymposium.org/mics2025/)) held in Cixi, China.
 - **Mar 2025：** One paper accepted by TIP 2025.
 - **Sep 2024：** One paper accepted by TVCG 2024.
 - **Sep 2024：** One paper accepted by ACCV 2024.
@@ -60,8 +60,8 @@ I am researching in the interdisciplinary field of <strong>computer vision</stro
 
 <!-- **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!** -->
 
-- August 2025 - Current: **Visiting Ph.D. Student.**, National University of Singapore, Singapore
-- March 2023 - Current: **Ph.D. Student.**, Southeast University, Nanjing, China
+- Aug 2025 - Current: **Visiting Ph.D. Student.**, National University of Singapore, Singapore
+- Mar 2023 - Current: **Ph.D. Student.**, Southeast University, Nanjing, China
 - Sep 2020 - March 2023: **M.S.**, Southeast University, Nanjing, China
 - Sep 2016 - June 2020: **B.E.**, Nanjing University of Aeronautics and Astronautics, Nanjing, China
 
