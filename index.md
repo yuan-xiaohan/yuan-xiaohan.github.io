@@ -4,8 +4,10 @@ layout: page
 
 # About Me
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="flex: 1;">
+<div style="display: flex; align-items: flex-start;">
+
+ <!-- 左边：文字 -->
+  <div style="flex: 2; padding-right: 20px;">
 
 Here is <strong style="color:orange;">Yuan Xiaohan(袁小涵)</strong>.
 
@@ -26,9 +28,11 @@ under the supervision of Dr.
 I am researching in the interdisciplinary field of <strong>computer vision</strong> and <strong>medical imaging</strong>, with the goal of comprehending the structural, dynamic, and functional aspects of anatomical organs through the analysis of medical images. My current research interests are primarily focused on <font color="orange">cardiac-related</font> studies.
 </div>
 
-<div style="text-align: right;">
-  <img src="images/profile.jpg" width="80%" height="80%" style="vertical-align: top;">
-</div>
+<!-- 右边：头像（置顶靠右） -->
+  <div style="flex: 1; text-align: right;">
+    <img src="images/profile.jpg" width="80%" height="80%" style="vertical-align: top;">
+  </div>
+
 </div>
 
 <br>
