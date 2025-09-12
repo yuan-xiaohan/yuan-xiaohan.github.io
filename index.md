@@ -29,6 +29,7 @@ I am researching in the interdisciplinary field of <strong>computer vision</stro
 <div style="text-align: right;">
   <img src="images/profile.jpg" width="80%" height="80%" style="vertical-align: top;">
 </div>
+</div>
 
 <br>
 
