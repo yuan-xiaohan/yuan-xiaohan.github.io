@@ -30,7 +30,7 @@ I am researching in the interdisciplinary field of <strong>computer vision</stro
 
 <!-- 右边：头像（置顶靠右） -->
   <div style="flex: 1; text-align: right;">
-    <img src="images/profile.jpg" width="80%" height="80%" style="vertical-align: top;">
+    <img src="images/profile.jpg" width="100%" height="100%" style="vertical-align: top;">
   </div>
 
 </div>
