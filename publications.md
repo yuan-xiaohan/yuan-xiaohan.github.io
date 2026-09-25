@@ -10,7 +10,7 @@ td:first-child {
 }
 table {
     border-collapse: separate;
-    border-spacing: 25px; /* 10px 是间距的大小，可以根据需要调整 */
+    border-spacing: 25px;
 }
 </style>
 </head>
@@ -19,6 +19,56 @@ table {
   <!-- <colgroup>
     <col style="width: 250px;"> 
   </colgroup> -->
+
+<tr><!-- ARXIV26-LTB -->
+  <td style="text-align: center;"><img src="/images/publications/learning-to-beat26.jpg"></td>
+
+  <td>
+  <strong>Learning to Beat: Phenotype-Guided Latent Flow with Regional Motion Priors for Biventricular Motion Synthesis</strong><br>
+  Xuan Yang, <font color="orange">Xiaohan Yuan</font>, Hao Li, Lingyu Chen, Yanan Liu, Qingya Li, and Lei Li<br>arXiv preprint arXiv:2608.19738 (<strong>2026</strong>)<br>
+  <a href="https://arxiv.org/abs/2608.19738" target="_blank">[paper]</a>
+  </td>
+</tr>
+
+<tr><!-- ARXIV26-WHOLEHEART -->
+  <td style="text-align: center;"><img src="/images/publications/whole-heart26.jpg"></td>
+
+  <td>
+  <strong>Personalized 4D Whole-Heart Mesh Reconstruction from Cine MRI via Multi-Scale Temporal Modeling and Differentiable Contour Rendering</strong><br>
+  Xiaoyue Liu, Dongcheng Cang, <font color="orange">Xiaohan Yuan</font>, Mark Y. Y. Chan, Ching-Hui Sia, and Lei Li<br>arXiv preprint arXiv:2607.01952 (<strong>2026</strong>)<br>
+  <a href="https://arxiv.org/abs/2607.01952" target="_blank">[paper]</a>
+  </td>
+</tr>
+
+<tr><!-- MICCAI26 -->
+  <td style="text-align: center;"><img src="/images/publications/repcm26.jpg"></td>
+
+  <td>
+  <strong>RePCM: Region-Specific and Phenotype-Adaptive Bi-Ventricular Cardiac Motion Synthesis</strong><br>
+  Xuan Yang, <font color="orange">Xiaohan Yuan</font>, Hao Li, Lingyu Chen, Yanan Liu, and Lei Li<br>International Conference on Medical Image Computing and Computer-Assisted Intervention (<strong>MICCAI 2026</strong>) <strong><font color="#d9534f">(Oral)</font></strong><br>
+  <a href="https://papers.miccai.org/miccai-2026/0879-Paper2090.html" target="_blank">[paper]</a>
+  </td>
+</tr>
+
+<tr><!-- MICCAI26-CINEMESH4D -->
+  <td style="text-align: center;"><img src="/images/publications/cinemesh4d26.jpg"></td>
+
+  <td>
+  <strong>CineMesh4D: Personalized 4D Whole Heart Reconstruction from Sparse Cine MRI</strong><br>
+  Xiaoyue Liu, <font color="orange">Xiaohan Yuan</font>, Mark Y. Chan, Ching-Hui Sia, and Lei Li<br>International Conference on Medical Image Computing and Computer-Assisted Intervention (<strong>MICCAI 2026</strong>)<br>
+  <a href="https://papers.miccai.org/miccai-2026/paper/0099_paper.pdf" target="_blank">[paper]</a>
+  </td>
+</tr>
+
+<tr><!-- CVPR26 -->
+  <td style="text-align: center;"><img src="/images/publications/cvpr26.jpg"></td>
+
+  <td>
+  <strong>Stability-Driven Motion Generation for Object-Guided Human-Human Co-Manipulation</strong><br>
+  Jiahao Xu, <font color="orange">Xiaohan Yuan</font>, Xingchen Wu, Chongyang Xu, Kun Li, and Buzhen Huang<br>IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR 2026</strong>)<br>
+  <a href="https://openaccess.thecvf.com/content/CVPR2026/html/Xu_Stability-Driven_Motion_Generation_for_Object-Guided_Human-Human_Co-Manipulation_CVPR_2026_paper.html" target="_blank">[paper]</a> <a href="https://github.com/boycehbz/StaCOM" target="_blank">[code]</a>
+  </td>
+</tr>
 
 <tr><!-- TIP25 -->
   <td style="text-align: center;"><img src="/images/publications/TIP25.jpg"></td>
@@ -88,6 +138,16 @@ table {
   <strong>A 2.5D Coarse-to-fine Framework for 3D Cardiac CT View Planning</strong><br>
   <font color="orange">Xiaohan Yuan</font> and Yinsu Zhu<br> Chinese Conference on Pattern Recognition and Computer Vision (<strong>PRCV 2022</strong>)<br>
   <a href="https://link.springer.com/content/pdf/10.1007/978-3-031-18910-4_31.pdf" target="_blank">[paper]</a>
+  </td>
+</tr>
+
+<tr><!-- CAC20 -->
+  <td style="text-align: center;"><img src="/images/publications/cac20.jpg"></td>
+
+  <td>
+  <strong>Attention Based Encoder-decoder Network for Cardiac Semantic Segmentation</strong><br>
+  <font color="orange">Xiaohan Yuan</font>, Yinsu Zhu, and Yangang Wang<br>Chinese Automation Congress (<strong>CAC 2020</strong>)<br>
+  <a href="https://doi.org/10.1109/CAC51589.2020.9326844" target="_blank">[paper]</a>
   </td>
 </tr>
 
