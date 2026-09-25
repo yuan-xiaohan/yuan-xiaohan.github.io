@@ -46,7 +46,7 @@ table {
   <td>
   <strong>RePCM: Region-Specific and Phenotype-Adaptive Bi-Ventricular Cardiac Motion Synthesis</strong><br>
   Xuan Yang, <font color="orange">Xiaohan Yuan</font>, Hao Li, Lingyu Chen, Yanan Liu, and Lei Li<br>International Conference on Medical Image Computing and Computer-Assisted Intervention (<strong>MICCAI 2026</strong>) <strong><font color="#d9534f">(Oral)</font></strong><br>
-  <a href="https://papers.miccai.org/miccai-2026/0879-Paper2090.html" target="_blank">[paper]</a>
+  <a href="https://papers.miccai.org/miccai-2026/paper/2090_paper.pdf" target="_blank">[paper]</a>
   </td>
 </tr>
 
