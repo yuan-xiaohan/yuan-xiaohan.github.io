@@ -20,6 +20,16 @@ table {
     <col style="width: 250px;"> 
   </colgroup> -->
 
+<tr><!-- ARXIV26-SAX2MYOSURF -->
+  <td style="text-align: center;"><img src="/images/publications/sax2myosurf26.gif"></td>
+
+  <td>
+  <strong>Anatomy-Aligned Surface Field Learning for Myocardial Reconstruction from Sparse Short-Axis Cine MRI</strong><br>
+  <font color="orange">Xiaohan Yuan</font>, Xuan Yang, Qingya Li, Yangang Wang, and Lei Li<br>arXiv preprint arXiv:2609.29825 (<strong>2026</strong>)<br>
+  <a href="https://arxiv.org/abs/2609.29825" target="_blank">[paper]</a> <a href="https://github.com/yuan-xiaohan/SAX2MyoSurf" target="_blank">[code]</a>
+  </td>
+</tr>
+
 <tr><!-- ARXIV26-LTB -->
   <td style="text-align: center;"><img src="/images/publications/learning-to-beat26.jpg"></td>
 
