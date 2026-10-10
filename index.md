@@ -9,7 +9,7 @@ layout: page
  <!-- 左边：文字 -->
   <div style="flex: 2; padding-right: 20px;">
 
-Here is <strong style="color:orange;">Yuan Xiaohan(袁小涵)</strong>.
+Here is <strong style="color:orange;">Xiaohan Yuan(袁小涵)</strong>.
 
 I am a Ph.D. student in the Vision and Cognition Lab 
 (<a href="https://www.yangangwang.com/" target="_blank" style="color:blue;">VCL</a>) 
